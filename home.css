@@ -1,0 +1,47 @@
+*
+{
+    color:rgb(0, 0, 0);
+    margin:3px;
+    padding:3px;
+    font-family: cursive;
+}
+body
+{
+   background-color:rgb(248, 198, 62) ;
+}
+figcaption
+{
+ 
+ 
+ border:3px solid black;
+ border-radius: 10px;
+ background-color: white;
+ color: black;
+ width: 235px;
+ text-align: center;
+ 
+}
+.h
+{
+    padding-left: 640px;
+    border-radius: 15px;
+}
+ul>li{
+    list-style-type:none;
+    display: inline;
+    font-size:18px;
+    color:black;
+    padding-left: 15px;
+}
+
+.p
+{
+    
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    width: 835px;
+    text-align: center;
+    
+}
